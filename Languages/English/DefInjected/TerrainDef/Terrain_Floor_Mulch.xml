@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OllyMulchFloor.label>mulch</OllyMulchFloor.label>
+  <OllyMulchFloor.description>A simple ground cover of wood chips.  Good for tidying up outdoor spaces.</OllyMulchFloor.description>
+
+  <OllyMulchFloor_Burned.label>burnt mulch</OllyMulchFloor_Burned.label>
+  <OllyMulchFloor_Burned.description>The burnt ashes of mulch groundcover.</OllyMulchFloor_Burned.description>
+
+
+</LanguageData>
