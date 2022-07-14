@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Mulch (Continued)</name>
   <packageId>Mlie.Mulch</packageId>
@@ -12,29 +12,33 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Ollys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1250968537
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/Mulch][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
-Check out Mlie&apos;s update of this mod for 1.1.  Thanks Mlie!
+Check out Mlie's update of this mod for 1.1.  Thanks Mlie!
 UPDATE: https://steamcommunity.com/sharedfiles/filedetails/?id=2030393196
 
 -----
 
-This mod adds a ground cover made of wood chips.  It is aesthetically neutral and useful for tidying your compound&apos;s outdoor areas.  It is based on Straw Floor by nihiltres.
+This mod adds a ground cover made of wood chips.  It is aesthetically neutral and useful for tidying your compound's outdoor areas.  It is based on Straw Floor by nihiltres.
 
-The mulch is slightly dirty itself (-0.2 cleanliness), but it resists the accumulation of additional dirt and does not contaminate pawns&apos; feet.  (It also blocks plant growth, of course.)
+The mulch is slightly dirty itself (-0.2 cleanliness), but it resists the accumulation of additional dirt and does not contaminate pawns' feet.  (It also blocks plant growth, of course.)
 
 Materials cost: 2 wood logs
 Work cost: 2 (in-game scale)
@@ -49,7 +53,7 @@ This mod should not conflict with other mods.  It can be added to existing games
 A direct download is available here: http://mathbeing.net/downloads/Rimworld/
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -60,4 +64,3 @@ A direct download is available here: http://mathbeing.net/downloads/Rimworld/
 [/list]
 </description>
 </ModMetaData>
-
