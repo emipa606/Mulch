@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>OllyMulchFloor</defName>
+    <label>mulch</label>
+    <renderPrecedence>246</renderPrecedence>
+    <description>A simple ground cover of wood chips.  Good for tidying up outdoor spaces.</description>
+    <texturePath>OllyMulchFloor</texturePath>
+    <edgeType>FadeRough</edgeType>
+    <burnedDef>OllyMulchFloor_Burned</burnedDef>
+    <costList>
+      <WoodLog>2</WoodLog>
+    </costList>
+    <resourcesFractionWhenDeconstructed>0</resourcesFractionWhenDeconstructed>
+    <statBases>
+      <Beauty>0</Beauty>
+      <Cleanliness>-0.2</Cleanliness>
+      <Flammability>0.75</Flammability>
+      <WorkToBuild>100</WorkToBuild>
+    </statBases>
+    <pathCost>1</pathCost>
+  </TerrainDef>
+  <TerrainDef ParentName="BurnedFloorBase">
+    <defName>OllyMulchFloor_Burned</defName>
+    <label>burnt mulch</label>
+    <renderPrecedence>245</renderPrecedence>
+    <description>The burnt ashes of mulch groundcover.</description>
+    <texturePath>OllyMulchFloor_Burned</texturePath>
+    <edgeType>FadeRough</edgeType>
+    <generatedFilth>Filth_Ash</generatedFilth>
+    <filthAcceptanceMask>
+      <li>Unnatural</li>
+    </filthAcceptanceMask>
+  </TerrainDef>
+</Defs>
